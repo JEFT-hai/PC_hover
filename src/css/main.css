@@ -36,15 +36,15 @@ figcaption div{
 }
 
 @media only screen and (max-width: 600px){
-	figure {width: 100%};
+	figure {width: 100%}
 }
 
 @media only screen and (min-width:601px) and (max-width: 1000px){
-	figure {width: 50%};
+	figure {width: 50%}
 }
 
 @media only screen and (min-width: 1001px){
-	figure {width: 33.33%};
+	figure {width: 33.33%}
 }
 
 .test1{
